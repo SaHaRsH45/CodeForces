@@ -33,7 +33,6 @@ int main(){
     cout<<"YES";
   }
   cout<<endl;
-  cout<<endl;
   }
   return 0;
 }
